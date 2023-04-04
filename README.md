@@ -5,10 +5,10 @@
 - step1:
     ```sh
     # if using yarn
-    yarn add @notech/react-native-exif
+    yarn add @killian2k/react-native-exif
     
     # if usng npm
-    npm install @notech/react-native-exif --save
+    npm install @killian2k/react-native-exif --save
     ```
 
 - step2:  
